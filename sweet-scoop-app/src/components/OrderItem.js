@@ -1,7 +1,3 @@
-// item in the order list needs a delete button on click
-
-import React from 'react';
-
 function OrderItem({ item }) {
     return (
         <div className="order-item">
