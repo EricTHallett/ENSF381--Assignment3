@@ -1,4 +1,4 @@
-function OrderItem({ item }) {
+function OrderItem({ item, onRemove }) {
     return (
         <div className="order-item">
             <div>
